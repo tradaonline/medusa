@@ -1,5 +1,11 @@
 # @medusajs/utils
 
+## 1.10.2
+
+### Patch Changes
+
+- [#5161](https://github.com/medusajs/medusa/pull/5161) [`cc4169a94`](https://github.com/medusajs/medusa/commit/cc4169a94c7c5f5bf4d04f7b6e815b409a0a8192) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(utils): Provide an utils that allows to convert an array of fields to a complete remote query object
+
 ## 1.10.1
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @medusajs/admin-ui
 
+## 2.1.3
+
+### Patch Changes
+
+- [#5176](https://github.com/medusajs/medusa/pull/5176) [`25dad081b`](https://github.com/medusajs/medusa/commit/25dad081b7f99b5398d0d64eba50ebcb08e1138f) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fix portuguese transalations
+
+- [#5173](https://github.com/medusajs/medusa/pull/5173) [`adb6fb3f7`](https://github.com/medusajs/medusa/commit/adb6fb3f7d2bce941395516cd61bcfae2908a74f) Thanks [@olivermrbl](https://github.com/olivermrbl)! - fix(admin-ui): Allow nullish values in update variant
+
 ## 2.1.2
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @medusajs/modules-sdk
 
+## 1.11.3
+
+### Patch Changes
+
+- [#5168](https://github.com/medusajs/medusa/pull/5168) [`dfa5d041c`](https://github.com/medusajs/medusa/commit/dfa5d041c90b849b288f8ae9f5a0a1aa3ee1b32e) Thanks [@adrien2p](https://github.com/adrien2p)! - Feat/update cart product isolation
+
+- Updated dependencies [[`cc4169a94`](https://github.com/medusajs/medusa/commit/cc4169a94c7c5f5bf4d04f7b6e815b409a0a8192)]:
+  - @medusajs/utils@1.10.2
+
 ## 1.11.2
 
 ### Patch Changes
